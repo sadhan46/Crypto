@@ -1,16 +1,9 @@
-# protto_assignment
+# crypto
 
-A new Flutter application.
+A Crypto app UI.
 
-## Getting Started
+![crypto_home](https://user-images.githubusercontent.com/76690178/156162791-d2b3a872-1cbf-40d6-aaec-83f3346d7223.jpg)
 
-This project is a starting point for a Flutter application.
+![crypto_coinList](https://user-images.githubusercontent.com/76690178/156162802-959b5f39-6c0e-4d47-9c94-5322c1434ad2.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![crypto_portfolio](https://user-images.githubusercontent.com/76690178/156162814-4050a07e-e00c-40a9-be4b-aa85dc5e598c.jpg)
